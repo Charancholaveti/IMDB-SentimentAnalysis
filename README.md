@@ -1,7 +1,6 @@
 ## 🔧 How to Run
 ## Clone the Repository
 git clone https://github.com/yourusername/IMDB-SentimentAnalysis.git
-cd churn-classification-ann
 ### Install Dependencies
 pip install -r requirements.txt
 ### Run the Jupyter Notebook
